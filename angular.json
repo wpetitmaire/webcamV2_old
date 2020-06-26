@@ -31,7 +31,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.sass"
+              "src/styles.sass",
+              "node_modules/materialize-css/dist/css/materialize.min.css"
             ],
             "scripts": []
           },
@@ -95,7 +96,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.sass"
+              "src/styles.sass",
+              "node_modules/materialize-css/dist/css/materialize.min.css"
             ],
             "scripts": []
           }
